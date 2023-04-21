@@ -28,6 +28,7 @@ cd -
 
 sudo apt-get install -y libgtk-3-dev
 
+sudo apt-get install -y python3-numpy
 sudo apt-get install -y python3-dev python3-pip
 sudo apt install -y python3-testresources
 
