@@ -10,6 +10,6 @@ pip install --upgrade --force-reinstall tensorflow==2.12.0
 
 pip install --upgrade --force-reinstall torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
-pip install --upgrade --force-reinstall jupyter
+sudo apt install -y jupyter
 
 cd -
